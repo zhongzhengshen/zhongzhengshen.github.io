@@ -27,8 +27,8 @@ You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](../assets/CurriculmV
 
 
 # 🔥 News
-- *2024.02*: &nbsp;😊😊 I created my own academic website！
-- *2023.12*: &nbsp;😆😆 50 scores Genshin Impact artifact both! 
+- *2024.02*: &nbsp;😊😊 I created my own academic website successfully！
+- *2023.12*: &nbsp;😆😆 50 scores Genshin Impact artifact was born! 
 - *2023.10*: &nbsp;😍😍 Celebrate the birth of the owner-slave rotation system of male on top of male wechat group! 
 
 # 📝 Publications 
