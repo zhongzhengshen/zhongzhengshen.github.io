@@ -33,7 +33,7 @@ You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](../assets/CurriculmV
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/yuanshen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Validity of Conditional Reasoning Test: Theoretical Foundations, Validity Evidence, and Future Challenges](*Under Review*)
