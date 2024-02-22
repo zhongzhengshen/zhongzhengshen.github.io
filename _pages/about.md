@@ -19,7 +19,7 @@ redirect_from:
 
 I work at [Department of Psychology](https://psych.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/) as a research assitant now in China.
 
-I graduated from College of Humanities and Science, Northeast Forestry University with a bachelor’s degree and from the Department of Psychology, Beijing Normal University with a master’s degree, advised by Prof. Bian Ran.
+I graduated from [College of Humanities and Science](https://wenfa.nefu.edu.cn/), [Northeast Forestry University](https://www.nefu.edu.cn/) with a bachelor’s degree and from the [Department of Psychology](https://psych.bnu.edu.cn/) with a master’s degree, advised by [Prof. Bian Ran](https://psych.bnu.edu.cn/szdw/zrjs/fjs/br/index.htm).
 
 My research interest includes personality assessment, dark triad, conditional reasoning test, faking, competency Modelling etc.
 
@@ -44,7 +44,7 @@ Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*
 </div>
 </div>
 
-- [The Development and Validation of a Conditional Reasoning Test of Narcissism](https://github.com), Zhaohui Zhang, ZhongZheng Shen, YiYi Zhang, Ran Bian* **JAP 2024**
+- [The Development and Validation of a Conditional Reasoning Test of Narcissism](https://github.com), Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*.
 
 # 🎖 Honors and Awards
 - *2019.05* &nbsp;First Prize in Innovation and Entrepreneurship Training Program (National Level). 
