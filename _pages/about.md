@@ -47,15 +47,15 @@ Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*
 - [The Development and Validation of a Conditional Reasoning Test of Narcissism](https://github.com), Zhaohui Zhang, ZhongZheng Shen, YiYi Zhang, Ran Bian* **JAP 2024**
 
 # 🎖 Honors and Awards
-- *2019.05* First Prize in Innovation and Entrepreneurship Training Program (National Level). 
-- *2021.06* “Qi Yu Qi De” Excellent Student Scholarship.
-- *2021.12* Third Prize in “Mu duo Cup” Online Questionnaire Research Competition (National Level).
-- *2021.12* First Prize in Master of Applied Psychology Academic Scholarship.
-- *2022.06* First Prize in Master of Applied Psychology Group Practice Scholarship.
-- *2022.06* Second Prize in Master of Applied Psychology Individual Practice Scholarship.
-- *2022.06* “Hong Sheng” Scholarship.
-- *2022.06* Honors for Outstanding Graduate.
-- *2022.06* Special Scholarship for the Master of Applied Psychology Practical Competition.
+- *2019.05* &nbsp;First Prize in Innovation and Entrepreneurship Training Program (National Level). 
+- *2021.06* &nbsp;“Qi Yu Qi De” Excellent Student Scholarship.
+- *2021.12* &nbsp;Third Prize in “Mu duo Cup” Online Questionnaire Research Competition (National Level).
+- *2021.12* &nbsp;First Prize in Master of Applied Psychology Academic Scholarship.
+- *2022.06* &nbsp;First Prize in Master of Applied Psychology Group Practice Scholarship.
+- *2022.06* &nbsp;Second Prize in Master of Applied Psychology Individual Practice Scholarship.
+- *2022.06* &nbsp;“Hong Sheng” Scholarship.
+- *2022.06* &nbsp;Honors for Outstanding Graduate.
+- *2022.06* &nbsp;Special Scholarship for the Master of Applied Psychology Practical Competition.
 
 # 📖 Educations
 - *2020.09 - 2022.06*, Departments of Psychology, Beijing Normal University, China.
