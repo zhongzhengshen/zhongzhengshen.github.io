@@ -17,42 +17,53 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work at [Department of Psychology](https://psych.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/) as a research assitant now in China.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from College of Humanities and Science, Northeast Forestry University with a bachelor’s degree and from the Department of Psychology, Beijing Normal University with a master’s degree, advised by Prof. Bian Ran.
+
+My research interest includes personality assessment, dark triad, conditional reasoning test, faking, competency Modelling etc.
+
+You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](../assets/CurriculmVitae.pdf)
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;😊😊 I created my own academic website！
+- *2023.12*: &nbsp;😆😆 50 scores Genshin Impact artifact both! 
+- *2023.10*: &nbsp;😍😍 Celebrate the birth of the owner-slave rotation system of male on top of male wechat group! 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[The Validity of Conditional Reasoning Test: Theoretical Foundations, Validity Evidence, and Future Challenges](*Under Review*)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Conditional reasoning test is a standard implicit projection test, which consist of a series of logical reasoning tasks. It measures implicit motives, personality and behavioral tendencies by measuring individuals’ implicit cognitive biases (i.e. justification mechanisms) among their reasoning. With the continuous development of theory and application, CRT has accumulated a large amount of validity evidences, including criterion-related validity, incremental validity, and construct validity. However, the construct validity of CRT is still remain controversial, the core problem—“what to measure” remains to be resolve. Based on the researches above, to further improve the validity of the CRT, we need to (1) explore the test structure based on justification mechanisms; (2) clarify the underlying mechanism of CRT; (3) look for cross-cultural factors affecting CRT results; (4) limit the influence of the measuring principle leakage on the measurement results, providing a foundation for the subsequent research. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [The Development and Validation of a Conditional Reasoning Test of Narcissism](https://github.com), Zhaohui Zhang, ZhongZheng Shen, YiYi Zhang, Ran Bian* **JAP 2024**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.05* First Prize in Innovation and Entrepreneurship Training Program (National Level). 
+- *2021.6* “Qi Yu Qi De” Excellent Student Scholarship.
+- *2021.12* Third Prize in “Mu duo Cup” Online Questionnaire Research Competition (National Level).
+- *2021.12* First Prize in Master of Applied Psychology Academic Scholarship.
+- *2022.6* First Prize in Master of Applied Psychology Group Practice Scholarship.
+- *2022.6* Second Prize in Master of Applied Psychology Individual Practice Scholarship.
+- *2022.6* “Hong Sheng” Scholarship.
+- *2022.6* Honors for Outstanding Graduate.
+- *2022.6* Special Scholarship for the Master of Applied Psychology Practical Competition.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2020.09 - 2022.06*, Departments of Psychology, Beijing Normal University, China.
+     - Master in *Applied Psychology*
+     - Relevant courses: Advanced psychological statistics; Talent assessment technology; Team & Organization measurement; Psychometrics; Social psychology.
+- *2016.09 - 2020.06*, College of Humanities and Science, Northeast Forestry University, China. 
+     - Bachelor in *Laws*
+     - Relevant courses: Organizational behavior; Human resource management; Sociology; Management Principles; Social Science Research Methods. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.07 - 2022.02*, *Industial & Organizational Lab*, Beijing.
