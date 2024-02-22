@@ -48,14 +48,14 @@ Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*
 
 # 🎖 Honors and Awards
 - *2019.05* First Prize in Innovation and Entrepreneurship Training Program (National Level). 
-- *2021.6* “Qi Yu Qi De” Excellent Student Scholarship.
+- *2021.06* “Qi Yu Qi De” Excellent Student Scholarship.
 - *2021.12* Third Prize in “Mu duo Cup” Online Questionnaire Research Competition (National Level).
 - *2021.12* First Prize in Master of Applied Psychology Academic Scholarship.
-- *2022.6* First Prize in Master of Applied Psychology Group Practice Scholarship.
-- *2022.6* Second Prize in Master of Applied Psychology Individual Practice Scholarship.
-- *2022.6* “Hong Sheng” Scholarship.
-- *2022.6* Honors for Outstanding Graduate.
-- *2022.6* Special Scholarship for the Master of Applied Psychology Practical Competition.
+- *2022.06* First Prize in Master of Applied Psychology Group Practice Scholarship.
+- *2022.06* Second Prize in Master of Applied Psychology Individual Practice Scholarship.
+- *2022.06* “Hong Sheng” Scholarship.
+- *2022.06* Honors for Outstanding Graduate.
+- *2022.06* Special Scholarship for the Master of Applied Psychology Practical Competition.
 
 # 📖 Educations
 - *2020.09 - 2022.06*, Departments of Psychology, Beijing Normal University, China.
