@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at [Department of Psychology](https://psych.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/) as a research assitant now in China.
+I work at [Faculty of Psychology](https://psych.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/) as a research assitant now in China.
 
-I graduated from [College of Humanities and Science](https://wenfa.nefu.edu.cn/), [Northeast Forestry University](https://www.nefu.edu.cn/) with a bachelor’s degree and from the [Department of Psychology](https://psych.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/) with a master’s degree, advised by [Prof. Bian Ran](https://psych.bnu.edu.cn/szdw/zrjs/fjs/br/index.htm).
+I graduated from [College of Humanities and Science](https://wenfa.nefu.edu.cn/), [Northeast Forestry University](https://www.nefu.edu.cn/) with a bachelor’s degree and from the [Faculty of Psychology](https://psych.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/) with a master’s degree, advised by [Prof. Bian Ran](https://psych.bnu.edu.cn/szdw/zrjs/fjs/br/index.htm).
 
 My research interest includes personality assessment, dark triad, conditional reasoning test, faking, competency Modelling etc.
 
-You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](assets/CurriculumVitae.pdf)
+You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](assets/ZhongZheng Shen.pdf)
 
 
 # 🔥 News
