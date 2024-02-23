@@ -23,7 +23,7 @@ I graduated from [College of Humanities and Science](https://wenfa.nefu.edu.cn/)
 
 My research interest includes personality assessment, dark triad, conditional reasoning test, faking, competency Modelling etc.
 
-You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](assets/ZhongZheng Shen.pdf)
+You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](assets/.pdf)
 
 
 # 🔥 News
