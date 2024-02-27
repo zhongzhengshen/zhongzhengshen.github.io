@@ -23,7 +23,7 @@ I graduated from [College of Humanities and Science](https://wenfa.nefu.edu.cn/)
 
 My research interest includes personality assessment, dark triad, conditional reasoning test, faking, competency Modelling etc.
 
-You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](assets/ZhongZhengShen.pdf)
+You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](assets/ZhongZhengShen1.pdf)
 
 
 # 🔥 News
@@ -47,15 +47,15 @@ Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*
 - [The Development and Validation of a Conditional Reasoning Test of Narcissism](https://github.com), Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*.
 
 # 🎖 Honors and Awards
-- *2019.05* &nbsp;First Prize in Innovation and Entrepreneurship Training Program (National Level). 
-- *2021.06* &nbsp;“Qi Yu Qi De” Excellent Student Scholarship.
-- *2021.12* &nbsp;Third Prize in “Mu duo Cup” Online Questionnaire Research Competition (National Level).
-- *2021.12* &nbsp;First Prize in Master of Applied Psychology Academic Scholarship.
-- *2022.06* &nbsp;First Prize in Master of Applied Psychology Group Practice Scholarship.
-- *2022.06* &nbsp;Second Prize in Master of Applied Psychology Individual Practice Scholarship.
 - *2022.06* &nbsp;“Hong Sheng” Scholarship.
 - *2022.06* &nbsp;Honors for Outstanding Graduate.
+- *2022.06* &nbsp;First Prize in Master of Applied Psychology Group Practice Scholarship.
 - *2022.06* &nbsp;Special Scholarship for the Master of Applied Psychology Practical Competition.
+- *2022.06* &nbsp;Second Prize in Master of Applied Psychology Individual Practice Scholarship.
+- *2021.12* &nbsp;First Prize in Master of Applied Psychology Academic Scholarship.
+- *2021.12* &nbsp;Third Prize in “Mu duo Cup” Online Questionnaire Research Competition (National Level).
+- *2021.06* &nbsp;“Qi Yu Qi De” Excellent Student Scholarship.
+- *2019.05* &nbsp;First Prize in Innovation and Entrepreneurship Training Program (National Level). 
 
 # 📖 Educations
 - *2020.09 - 2022.06*, Departments of Psychology, Beijing Normal University, China.
