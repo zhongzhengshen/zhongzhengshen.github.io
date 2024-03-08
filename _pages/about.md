@@ -28,13 +28,8 @@ You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](assets/ZhongZhengShe
 
 # 🔥 News
 - *2024.02*: &nbsp;😊😊 I created my own academic website successfully！
-- *2023.12*: &nbsp;😆😆 50 scores Genshin Impact artifact was born! 
-- *2023.10*: &nbsp;😍😍 Celebrate the birth of the owner-slave rotation system of male on top of male wechat group! 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genshin Impact</div><img src='images/yuanshen.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [The Validity of Conditional Reasoning Test: Theoretical Foundations, Validity Evidence, and Future Challenges](*Under Review*)
 
@@ -44,7 +39,48 @@ Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*
 </div>
 </div>
 
-- [The Development and Validation of a Conditional Reasoning Test of Narcissism](https://github.com), Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*.
+- [The Development and Validation of a Conditional Reasoning Test of Narcissism](https://github.com), Zhaohui Zhang, **ZhongZheng Shen**, YiYi Zhang, Ran Bian*.(*In Preparation*)
+
+# 📏 Assessment Techniques & Research Experience
+- *Conditional Reasoning Test*
+Project Title: Research into Assessing Morality of the Leading Cadres 
+     - Compiled a comprehensive literature review on Morality Assessment, Cadre Corruption, and the Dark Triad
+     - Conducted in-depth interviews with leading cadres, coded data using NVivo, and extract 4 key dimensions to be measured
+     - Develop conditional reasoning items and identified the criterion scale for each dimension
+     - Analyzed test data (e.g. item-total correlation, criterion-related validity) and revised items across 3 rounds (total N = 881)
+     - Constructed test norms, authored project reports, and developed technical manuals for the test
+Other projects involved using this technique：Research into Assessing Psychological Risk Factors of Flight Trainees
+
+- *Situational Judgment Test*
+Project Title: Study on the Psychological Competency Assessment Method for Civil Aviation Captains
+     - Conducted in-depth interviews with civil aviation captains from various airlines, coded behavioral events, and extracted competencies from the collected data
+     - Identified the most suitable assessment method for each competency (e.g. Situational Judgment Test, Oral-Fact-Finding-Exercise, Case Analysis), led graduate students in item development, and conducted collaborative review
+     - Currently reviewing and revising the items in consultation with experts in the field of civil aviation
+
+- *Self-Report/Forced-Choice Test*
+Project Title: Development of the Forced-choice HEXACO Personality Inventory
+     - Conducted a literature review on HEXACO/Big Five factor models and compiled a dictionary of personality definitions
+     - Created approximately 150 self-report items specifically tailored for the neuroticism and openness dimensions
+     - Conducted data analysis across 3 rounds of test data, examining aspects such as reliability, item-total correlation, content validity, construct validity, and criterion-related validity (total N = 1066) 
+     - Transformed the self-report items into sets of forced-choice item blocks, based on social desirability ratings of the items
+     - Designed a template for generating test reports and crafted report language for the neuroticism and openness dimensions
+Other projects involved using this technique：Research on Personality Traits and Matchmaking Strategies of MOBA Game Players; Development and Validation of the “Love-Struck” Questionnaire
+
+- *Situational Simulation*
+Project Title: Development of Leaderless Group Discussion
+     - Identify suitable topics based on given assessment criteria and devise unsupervised group discussion prompts.
+     - Collaborate with team members to brainstorm, review, and revise the questions.
+     - Act as an interviewer, coding and scoring the behavior of interviewees.
+Other projects involved using this technique: Development of Situational Interview Questions
+
+- *Competency Modeling*
+Project Title: “BOSS” Competency Modeling for JD.com, Inc.
+     - Conduct a comprehensive review of domestic and international literature on leadership, leadership potential, and leadership traits.
+     - Conduct in-depth interviews with JD's junior, middle, and senior-level bosses using Nvivo for coding, extracting over 30 competencies.
+     - Organize expert panel discussions to merge or eliminate competencies, producing stratified competency models tailored to different management levels.
+     - Coordinate with graduate students to develop competency case studies, writing and revising 12 cases that closely reflect real-world work scenarios.
+Other projects involved using this technique: Digital talent competency modeling
+
 
 # 🎖 Honors and Awards
 - *2022.06* &nbsp;“Hong Sheng” Scholarship.
