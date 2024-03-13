@@ -30,9 +30,9 @@ You can fing my CV here:[ZhongZheng Shen's Curriculm Vitae](assets/ZhongZhengShe
 - *2024.02*: &nbsp;😊😊 I created my own academic website successfully！
 
 # 📝 Publications 
-Zhang, Z. H., **Shen Z. Z.**, Zhang, Y. Y., & Bian, R*. (*Under Review*). [The Validity of Conditional Reasoning Test: Theoretical Foundations, Validity Evidence, and Future Challenges.]() *China Examinations*.
+Zhang, Z. H., **Shen Z. Z.**, Zhang, Y. Y., & Bian, R*. **_(Under Review)_**. [The Validity of Conditional Reasoning Test: Theoretical Foundations, Validity Evidence, and Future Challenges.]() *China Examinations*.
 
-Zhang, Z. H., **Shen Z. Z.**, Zhang, Y. Y., & Bian, R*. (*In Preparation*). [The Development and Validation of a Conditional Reasoning Test of Narcissism.]()
+Zhang, Z. H., **Shen Z. Z.**, Zhang, Y. Y., & Bian, R*. **_(In Preparation)_**. [The Development and Validation of a Conditional Reasoning Test of Narcissism.]()
 
 # 📏 Assessment Techniques & Research Experience
 ***Conditional Reasoning Test***
